@@ -1,5 +1,0 @@
-verilog work "two_nand.v"
-verilog work "output_for_z1.v"
-verilog work "four_nand.v"
-verilog work "main.v"
-verilog work "D:/windows/windows_programs/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
